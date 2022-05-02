@@ -1,0 +1,23 @@
+{
+  "name": "tdd-estudo",
+  "version": "1.0.0",
+  "description": "Estudo de tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoSiqueiraEstrela/TDD-Estudo.git"
+  },
+  "keywords": [
+    "tdd",
+    "javascript"
+  ],
+  "author": "Bruno Siqueira Estrela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunoSiqueiraEstrela/TDD-Estudo/issues"
+  },
+  "homepage": "https://github.com/BrunoSiqueiraEstrela/TDD-Estudo#readme"
+}
