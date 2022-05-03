@@ -9,6 +9,7 @@
   },
   "devDependencies": {
     "jest": "^28.0.3",
-    "vite": "^2.9.7"
+    "vite": "^2.9.7",
+    "test": "jest --watchAll --verbose"
   }
 }
